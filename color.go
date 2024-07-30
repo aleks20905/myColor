@@ -1,6 +1,8 @@
 package color
 
-import "fmt"
+import (
+	"fmt"
+)
 
 const reset = "\033"
 
